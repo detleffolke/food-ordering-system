@@ -41,7 +41,7 @@ public class OrderDataMapper {
                 .build();
     }
 
-    public CreateOrderResponse orerToCreateOrerResponse(Order order){
+    public CreateOrderResponse orderToCreateOrderResponse(Order order){
         return CreateOrderResponse.builder()
                 .orderTrackingId(order.getTrackingId().getValue())
                 .orderStatus(order.getOrderStatus())
