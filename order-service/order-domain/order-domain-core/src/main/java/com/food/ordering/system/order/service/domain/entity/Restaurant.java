@@ -42,7 +42,7 @@ public class Restaurant extends AggregateRoot<RestaurantId> {
             return this;
         }
 
-        public Builder product(List<Product> val) {
+        public Builder products(List<Product> val) {
             products = val;
             return this;
         }
