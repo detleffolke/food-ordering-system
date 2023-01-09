@@ -63,7 +63,6 @@ public class OrderDomainServiceImpl implements OrderDomainService{
                     " is currently not active");
         }
     }
-
     private void setOrderProductInformation(Order order, Restaurant restaurant) {
         Map<ProductId, Product> restaurantProductMap = new HashMap<>();
         restaurant.getProducts().forEach(restaurantProduct ->{
