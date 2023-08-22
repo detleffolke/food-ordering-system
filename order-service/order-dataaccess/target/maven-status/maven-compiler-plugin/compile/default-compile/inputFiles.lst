@@ -1,0 +1,13 @@
+C:\Users\folke\IdeaProjects\food-ordering-system-last\order-service\order-dataaccess\src\main\java\com\food\ordering\system\order\service\dataaccess\customer\entity\CustomerEntity.java
+C:\Users\folke\IdeaProjects\food-ordering-system-last\order-service\order-dataaccess\src\main\java\com\food\ordering\system\order\service\dataaccess\order\entity\OrderEntity.java
+C:\Users\folke\IdeaProjects\food-ordering-system-last\order-service\order-dataaccess\src\main\java\com\food\ordering\system\order\service\dataaccess\customer\adapter\CustomerRepositoryImpl.java
+C:\Users\folke\IdeaProjects\food-ordering-system-last\order-service\order-dataaccess\src\main\java\com\food\ordering\system\order\service\dataaccess\customer\mapper\CustomerDataAccessMapper.java
+C:\Users\folke\IdeaProjects\food-ordering-system-last\order-service\order-dataaccess\src\main\java\com\food\ordering\system\order\service\dataaccess\restaurant\mapper\RestaurantDataAccessMapper.java
+C:\Users\folke\IdeaProjects\food-ordering-system-last\order-service\order-dataaccess\src\main\java\com\food\ordering\system\order\service\dataaccess\order\entity\OrderAddressEntity.java
+C:\Users\folke\IdeaProjects\food-ordering-system-last\order-service\order-dataaccess\src\main\java\com\food\ordering\system\order\service\dataaccess\customer\repository\CustomerJpaRepository.java
+C:\Users\folke\IdeaProjects\food-ordering-system-last\order-service\order-dataaccess\src\main\java\com\food\ordering\system\order\service\dataaccess\order\mapper\OrderDataAccessMapper.java
+C:\Users\folke\IdeaProjects\food-ordering-system-last\order-service\order-dataaccess\src\main\java\com\food\ordering\system\order\service\dataaccess\order\entity\OrderItemEntity.java
+C:\Users\folke\IdeaProjects\food-ordering-system-last\order-service\order-dataaccess\src\main\java\com\food\ordering\system\order\service\dataaccess\restaurant\adapter\RestaurantRepositoryImpl.java
+C:\Users\folke\IdeaProjects\food-ordering-system-last\order-service\order-dataaccess\src\main\java\com\food\ordering\system\order\service\dataaccess\order\entity\OrderItemEntityId.java
+C:\Users\folke\IdeaProjects\food-ordering-system-last\order-service\order-dataaccess\src\main\java\com\food\ordering\system\order\service\dataaccess\order\adapter\OrderRepositoryImpl.java
+C:\Users\folke\IdeaProjects\food-ordering-system-last\order-service\order-dataaccess\src\main\java\com\food\ordering\system\order\service\dataaccess\order\repository\OrderJpaRepository.java
